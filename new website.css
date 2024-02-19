@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar{
+    height: 60px;
+    background-color: rgb(94, 4, 4);
+    justify-content: space-evenly;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 115px;
+}
+.logo{
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+    margin-top: 10px;
+    height: 50px;
+    width: 100%;
+ 
+
+}
+.about{
+    margin-top: 3.5px;
+}
+.bold{
+    font-weight: 700;
+}
+.fbig{
+    font-size: 1.4rem;
+}
+hovereffect{
+    border: 2px dotted white transparent;
+}
+.hovereffect:hover{
+    border:2px dotted white;
+}
+.photo{
+    width: 50px;
+    height: 50px;
+
+}
+.mypic{
+    width: 30px;
+    height: 50px;
+    background-image: url("Screenshot 2023-11-10 115247.png");
+    border: 2px solid blue;
+    border-radius: 40%;
+}
+.addicon{
+    display: flex;
+    float: left;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+   width: 100%;
+   height: 100%;
+}
+.image{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    margin-left: 05px;
+    font-size: 1.3rem;
+}
+.button2{
+    margin-left:300px;
+    font-size:1.3rem;
+}

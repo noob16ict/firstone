@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.msg-container{
+    text-align: center;
+}
+.container{
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.box{
+    height: 90px;
+    width: 90px;
+    background-color: aquamarine;
+}
+.reset-btn{
+    text-align: center;
+}
+.hide{
+    display: none;
+}
